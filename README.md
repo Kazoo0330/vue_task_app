@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Task Management Application
 
-Things you may want to cover:
+## Summary
+Rails task management application with Vue.js
+capable of managing listed tasks by checking them.
+Done tasks will be shown in a completed tasks field.
 
-* Ruby version
+## Concept
+simple todo-app composed of Rails/Vue.js
 
-* System dependencies
+## Versions
+Ruby 2.4.1
+Rails 5.1.6
 
-* Configuration
+## Functions
+- [ ] task entry function
+- [ ] change task status
+  - [ ] unfinished tasks
+  - [ ] finished tasks
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
